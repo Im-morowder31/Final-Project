@@ -1,0 +1,49 @@
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Final Project.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\BouncyCastle.Cryptography.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Google.Protobuf.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Compression.LZ4.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Hash.xxHash.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\MySql.Data.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Buffers.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.IO.Pipelines.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Memory.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\ZstdSharp.dll
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\BouncyCastle.Cryptography.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Google.Protobuf.pdb
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Google.Protobuf.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Compression.LZ4.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\K4os.Hash.xxHash.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\MySql.Data.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Buffers.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.IO.Pipelines.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Memory.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\User\Desktop\VB\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.vbproj.AssemblyReference.cache
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.AdminLogin.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.AdminMain.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.AddProd.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.Shop.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final_Project.SignupForm.resources
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.vbproj.CopyComplete
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.xml
+D:\User\Desktop\VB\Final Project\Final Project\obj\Debug\Final Project.pdb
